@@ -43,3 +43,6 @@ Este comando activará la GUI de latexocr, permitiéndote capturar imágenes de 
 Soporte y Colaboración
 Para soporte técnico, sugerencias, o si deseas contribuir al proyecto, por favor visita el repositorio de GitHub de latexocr.
 
+pata iniciar la interfas grafica se escribe el comando     latexocr
+
+
